@@ -1,0 +1,23 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "A modular Express.js API for managing books and borrowings in a library. Features include adding, updating, deleting books, checking availability, and managing borrow/return actions. Designed with a clean structure for easy learning, customization, and testing with Postman.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MOHAMEDAHSAN/Library-Management-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MOHAMEDAHSAN/Library-Management-System/issues"
+  },
+  "homepage": "https://github.com/MOHAMEDAHSAN/Library-Management-System#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
