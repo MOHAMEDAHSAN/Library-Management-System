@@ -59,7 +59,7 @@ LIBRARY-MANAGEMENT-SYSTEM
 1. **Clone the repo:**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/MOHAMEDAHSAN/Library-Management-System
    cd LIBRARY-MANAGEMENT-SYSTEM
    ```
 
@@ -74,7 +74,7 @@ LIBRARY-MANAGEMENT-SYSTEM
 
    ```env
    PORT=3000
-   MONGO_URI="your-mongo-uri-here"
+   MONGODB_URI="your-mongo-uri-here"
    ```
 
    👉 Get `MONGO_URI` from your MongoDB Atlas cluster (Connection string).
